@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabio Fabrizi</h1>
 <h3 align="center">A Data Analyst from Cork</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/fabiofabrizi](https://github.com/fabiofabrizi)
-
 - 📫 How to reach me **fabio.fabrizi@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny. Nobody else does!**
